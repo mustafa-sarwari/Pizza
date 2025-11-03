@@ -1,0 +1,32 @@
+{
+  "name": "pizza-landing-page",
+  "version": "1.0.0",
+  "description": "A clean, modern pizza landing page built with HTML5 and CSS3",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "deploy": "echo 'Deployed via GitHub Pages at https://mustafa-sarwari.github.io/Pizza/'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mustafa-sarwari/Pizza.git"
+  },
+  "keywords": [
+    "pizza",
+    "landing-page",
+    "html",
+    "css",
+    "frontend",
+    "web-development",
+    "static-website",
+    "responsive-design",
+    "portfolio",
+    "beginner-friendly"
+  ],
+  "author": "Mustafa Sarwari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mustafa-sarwari/Pizza/issues"
+  },
+  "homepage": "https://mustafa-sarwari.github.io/Pizza/"
+}
